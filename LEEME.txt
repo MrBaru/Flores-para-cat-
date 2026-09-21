@@ -1,0 +1,23 @@
+PROYECTO LISTO PARA REVISAR
+
+1. Abre index.html.
+2. Pulsa "CLICK AQUÍ".
+3. Verás el mensaje centrado en 3 párrafos y la composición floral centrada.
+
+IMAGEN:
+- img/flowers.png ya está incluida.
+
+SONIDO:
+- El proyecto incluye un MP3 silencioso temporal con el nombre que espera flower.html.
+- Cuando elijas la canción final, reemplaza este archivo:
+  sound/ChristianBasso&HaienQiu-Flowers.mp3
+  por tu canción manteniendo exactamente ese nombre.
+- Luego ajustaremos anim.js si quieres letras sincronizadas con la nueva canción.
+
+ARCHIVOS PRINCIPALES:
+- index.html
+- flower.html
+- css/style.css
+- css/main.css
+- main.js
+- anim.js
