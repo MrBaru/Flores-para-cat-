@@ -1786,7 +1786,7 @@ body {
 
 @media only screen and (max-width: 600px) {
   .mensaje-cat {
-    top: 30vh;
+    top: 20vh;
     width: 94vw;
     gap: 7px;
     padding-inline: 8px;
